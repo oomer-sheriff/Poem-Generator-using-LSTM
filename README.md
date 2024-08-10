@@ -1,4 +1,3 @@
-```markdown
 # Poetic Muse: AI-Powered Poem Generator
 
 Welcome to Poetic Muse, an AI-powered poem generator application that uses deep learning to create poetry. This application is built with TensorFlow and Tkinter, and it generates poems based on user input.
@@ -93,4 +92,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For further questions or contributions, feel free to open an issue or submit a pull request.
 
 Happy Poeting!
-```
